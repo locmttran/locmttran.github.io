@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Michael Tran's Page
 
-You can use the [editor on GitHub](https://github.com/locmttran/locmttran.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm just a beginner so I hope to learn to love coding
 
 ### Markdown
 
@@ -17,9 +15,11 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+_Learning to use Italic_
+__Learning to use BOLD_
 
-1. Numbered
-2. List
+1. Numbering
+  1. Next number
 
 **Bold** and _Italic_ and `Code` text
 
