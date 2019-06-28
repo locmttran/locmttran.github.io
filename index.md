@@ -5,6 +5,7 @@ I'm just a beginner so I hope to learn to love coding
 ### Markdown
 
 _I think this is Italic_
+__Bold things up a bit__
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
